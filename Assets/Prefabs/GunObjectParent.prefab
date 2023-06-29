@@ -74,6 +74,7 @@ GameObject:
   - component: {fileID: 7566157126657684743}
   - component: {fileID: 7566157126657684742}
   - component: {fileID: 7829750469130965433}
+  - component: {fileID: 1472591251164729426}
   m_Layer: 0
   m_Name: PickUpTrigger
   m_TagString: Untagged
@@ -157,3 +158,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1472591251164729426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7566157126657684795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7b5c3e759ad504292ff9b7ab2af0d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

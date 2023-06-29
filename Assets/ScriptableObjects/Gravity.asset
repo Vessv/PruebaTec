@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b7b17504ac83eb4683495e15ed244e1, type: 3}
+  m_Name: Gravity
+  m_EditorClassIdentifier: 
+  fireRate: 2
+  bulletObject: {fileID: 3768211720481235796, guid: 78eabdd5972cb474b92007d6401473b9, type: 3}
+  weaponMesh: {fileID: -8310518740751045040, guid: db5ef47b9b5631844bab1e1c50f5a988, type: 3}
