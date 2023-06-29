@@ -1,9 +1,9 @@
 # PruebaTec
 
 # Controles
-Rueda del ratón para cambiar de arma.
-Para recoger un arma hay que pasar por encima.
-Dispara con click izquierdo
+- Rueda del ratón para cambiar de arma.
+- Para recoger un arma hay que pasar por encima.
+- Dispara con click izquierdo
 
 
 # Assets:
