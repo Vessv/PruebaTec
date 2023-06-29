@@ -1,5 +1,10 @@
 # PruebaTec
 
+# Armas
+- La pistola tiene balas que rebotan.
+- El francotirador tiene balas con centro de gravedad
+- La metralleta tiene balas parabolicas
+
 # Controles
 - Rueda del ratón para cambiar de arma.
 - Para recoger un arma hay que pasar por encima.
